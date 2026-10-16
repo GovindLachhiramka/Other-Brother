@@ -1,0 +1,9 @@
+google-adk
+firebase-admin
+fastapi
+uvicorn
+python-dotenv
+python-multipart
+google-cloud-storage
+google-cloud-firestore
+google-genai
